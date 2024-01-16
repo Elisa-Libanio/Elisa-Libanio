@@ -1,33 +1,28 @@
-**Bem Vindo - Welcome** <h1>
-Fullstack Developer - Javascript | Python
+**Bem Vindo - Welcome**
+
+**Fullstack Developer - Javascript | Python**
+
 This GitHub contains all learning activities developed by Elisa Libanio while studying at Trybe, and some other Bootcamps. 🚀
 
 Trybe program has more than 1,500 hours of classroom and online classes and covers front-end, back-end, computer
-science, software engineering, agile methodologies, and soft skills
-
+science, software engineering, agile methodologies, and soft skills.
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+          <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+          <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></div>
+          
+          
 
+ [![Elisa libanio GitHub stats](https://github-readme-stats.vercel.app/api?username=Elisa-Libanio&show_icons=true&theme=dracula)](https://github.com/Elisa-Libanio)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elisa-Libanio&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Cibersecurity and back-end with Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her - Ela/Dela
-- ⚡ Fun fact: ...
+    
 
+💡**Front-end**
 
-Front-end<h2>
-HTML + CSS + Javascript with React<h2>
+HTML + CSS + Javascript with React
 
  * [To-do-List-with-React](https://github.com/Elisa-Libanio/To-do-List-with-React) 
  *   <a href="https://github.com/Elisa-Libanio/Movie-Card-Library-Crud">Movie-Card-Library-Crud</a>
@@ -36,7 +31,7 @@ HTML + CSS + Javascript with React<h2>
  *  <a href="https://github.com/Elisa-Libanio/Recipe-App-Project">Recipe-App-Project</a>
 
 
-Back-end<h2>
+💡**Back-end** 
     
    * <a href="https://github.com/Elisa-Libanio/Store-Manager-Project">Store-Manager-Project</a>
    * <a href="https://github.com/Elisa-Libanio/Talker-Manager">Talker-Manager</a>
@@ -45,11 +40,11 @@ Back-end<h2>
    * <a href="https://github.com/Elisa-Libanio/MongoDb-DataFlights">MongoDb-DataFlights</a>
    * <a href="https://github.com/Elisa-Libanio/Vocabulary-Booster-Project">Vocabulary-Booster-Project</a>
 
-Fullstack<h2>
+💡**Fullstack**
   
    * <a href="https://github.com/Elisa-Libanio/Delivery-App">Delivery-App</a>
-
-   Python<h2>
+   
+💡 **Python**
    * <a href="https://github.com/Elisa-Libanio/Project-Ting">Project-Ting</a>
    * <a href="https://github.com/Elisa-Libanio/Inventory-Report">Inventory-Report</a>
    * <a href="https://github.com/Elisa-Libanio/Restaurant-Orders-Project">Restaurant-Orders-Project</a>
